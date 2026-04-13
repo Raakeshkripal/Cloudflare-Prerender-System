@@ -136,7 +136,7 @@ Cloudflare-Prerender-System/
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **SAJU KK**
 
