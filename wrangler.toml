@@ -1,0 +1,10 @@
+name = "prerender-sitemap-crawler"
+main = "src/index.js"
+compatibility_date = "2024-09-02"
+compatibility_flags = ["nodejs_compat"]
+
+browser = { binding = "MYBROWSER" }
+
+[[kv_namespaces]]
+binding = "PRERENDER_KV_HTML"
+id = "YOUR_KV_NAMESPACE_ID"
