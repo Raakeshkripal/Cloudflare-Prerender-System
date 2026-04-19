@@ -138,8 +138,6 @@ Cloudflare-Prerender-System/
 
 ## 👨‍💻 Authors
 
-**SAJU KK**
-
 **Raakesh Kripal VUK**
 
 ---
